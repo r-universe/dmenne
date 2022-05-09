@@ -1,0 +1,8 @@
+[
+  {
+    "package": "breathtestcore",
+    "url": "https://github.com/dmenne/breathtestcore",
+    "via": ["breathteststan"],
+    "from": "breathteststan"
+  }
+]
