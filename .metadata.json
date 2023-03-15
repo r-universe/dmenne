@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "gastempt",
+    "package": "breathteststan",
     "oncran": true
   },
   {
-    "package": "breathteststan",
+    "package": "gastempt",
     "oncran": true
   }
 ]

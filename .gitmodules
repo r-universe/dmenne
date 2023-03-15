@@ -8,14 +8,14 @@
 	url = https://github.com/dmenne/breathtestcore
 	shallow = true
 	registered = true
-[submodule "gastempt"]
-	path = gastempt
-	url = https://github.com/dmenne/gastempt
-	shallow = true
-	registered = true
 [submodule "breathteststan"]
 	path = breathteststan
 	url = https://github.com/dmenne/breathteststan
+	shallow = true
+	registered = true
+[submodule "gastempt"]
+	path = gastempt
+	url = https://github.com/dmenne/gastempt
 	shallow = true
 	registered = true
 [submodule "tippy"]
