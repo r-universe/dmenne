@@ -11,7 +11,3 @@
 [submodule "gastempt"]
 	path = gastempt
 	url = https://github.com/dmenne/gastempt
-[submodule "tippy"]
-	path = tippy
-	url = https://github.com/JohnCoene/tippy
-	registered = false

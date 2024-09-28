@@ -4,11 +4,5 @@
     "url": "https://github.com/dmenne/breathtestcore",
     "via": ["breathteststan"],
     "from": "breathteststan"
-  },
-  {
-    "package": "tippy",
-    "url": "https://github.com/JohnCoene/tippy",
-    "via": ["gastempt"],
-    "from": "gastempt"
   }
 ]
