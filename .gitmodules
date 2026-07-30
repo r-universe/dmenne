@@ -8,6 +8,10 @@
 [submodule "breathteststan"]
 	path = breathteststan
 	url = https://github.com/dmenne/breathteststan
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	registered = false
 [submodule "gastempt"]
 	path = gastempt
 	url = https://github.com/dmenne/gastempt
